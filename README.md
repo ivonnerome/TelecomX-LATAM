@@ -41,8 +41,6 @@ NumPy
 
 Matplotlib
 
-Seaborn
-
 Jupyter Notebook
 
 🔄 Flujo del análisis
